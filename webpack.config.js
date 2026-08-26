@@ -17,7 +17,7 @@ export default (env, argv) => {
     entry: path.resolve(__dirname, "src", "main.js"),
     output: {
       filename: "main.js",
-      path: path.resolve(__dirname, "dist"),
+      path: path.resolve(__dirname, "docs"),
       clean: true, // Limpa a pasta dist antes de cada build
     },
     
