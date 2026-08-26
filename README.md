@@ -1,3 +1,6 @@
+<img width="1906" height="1075" alt="image" src="https://github.com/user-attachments/assets/2f9b8810-d74d-4889-8245-7c4f4acb427e" />
+
+
 # 💇‍♂️ Hair Day
 
 Aplicação Web para agendamento de cortes de cabelo, permitindo que os clientes selecionem data, horário e registrem seus dados para marcação de atendimento.
